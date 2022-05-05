@@ -1,0 +1,37 @@
+#title {
+  background-color: #61A4BC;
+  color: #000;
+}
+
+#footer {
+  background-color: #61A4BC;
+  color: #000;
+}
+
+#features {
+  background-color: #61A4BC;
+  color: #000;
+}
+
+#press {
+  background-color: #61A4BC;
+}
+
+#pricing {
+  background-color: #61A4BC;
+}
+
+.container-fluid {
+  padding: 3% 15%;
+}
+
+.navbar-brand {
+  font-family: "Ubuntu";
+  font-size: 2rem;
+}
+
+h1 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 3rem;
+  line-height: 1.5;
+}
